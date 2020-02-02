@@ -1,0 +1,121 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #114875;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: ##197eab;
+}
+
+.footer {
+  height: 100px;
+  font-size: 20px;
+  text-align: center;
+  background-color: #114875;
+  padding-top: 20px;
+}
+
+.footer a{
+  color: white;
+}
+
+.frontTitle {
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  color: #114875;
+  font-family: "brandon-grotesque",Helvetica,Arial,"Nimbus Sans L",sans-serif;
+  line-height: 1;
+}
+
+.frontTitle h2 {
+  text-align: left;
+  padding-left: 50px;
+  margin-left: auto;
+  margin-left: auto;
+  margin-right: auto;
+  color: black;
+}
+
+.frontSubtitle {
+  text-align: center;
+  /* padding: 10px; */
+  padding-top: 4px;
+}
+
+.about p {
+  text-align: left;
+  padding-left: 90px;
+  padding-right: 90px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  color: black;
+}
+
+.aboutText p {
+  text-align: left;
+  padding-left: 90px;
+  padding-right: 90px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  color: black;
+}
+
+div.lineHeight{
+  line-height: 1.6;
+}
+
+.pictureText {
+  font-size: 13px;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.float img{
+  width: 40%;
+  object-fit: contain;
+  padding: 10px;
+  padding-bottom: 0px;
+  padding-left: 40px;
+  margin-left: auto; */
+  margin-right: auto;
+  display: block;
+  float: left;
+}
+.image img{
+  width: 80%;
+  object-fit: contain;
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+
+}
+
+img {
+  width: 50%;
+  object-fit: contain;
+}
+
+.mapouter {
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 60px;
+}
