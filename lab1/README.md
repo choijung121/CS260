@@ -1,3 +1,7 @@
+lab1.choijung.com
+
+
+
 Photography Website
 
 For this lab, you will create a basic website for a photographer using HTML and CSS. The website you build must include:
